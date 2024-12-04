@@ -30,7 +30,7 @@ import jdk.internal.vm.annotation.IntrinsicCandidate;
 /**
  * Utility class for string encoding and decoding.
  */
-class StringCoding {
+public class StringCoding {
 
     private StringCoding() { }
 
